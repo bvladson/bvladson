@@ -1,194 +1,119 @@
-<h1 align="center">Hi, I'm Vladson Santos Bezerra 👋</h1>
+<div align="center">
+  <img src="./assets/vladson-banner.png" alt="Vladson Santos Bezerra — Software Development, Systems Engineering, Architecture, Data and AI" width="100%" />
+</div>
 
-<h3 align="center">
-  Software Developer • Systems Engineering • Software Architecture • Data & AI
-</h3>
+<div align="center">
 
-<p align="center">
-  I build reliable software, connect systems, and turn complex business challenges into intelligent digital solutions.
-</p>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladsonbezerra/)
+  [![GitHub](https://img.shields.io/badge/GitHub-bvladson-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bvladson)
+  ![Based in Fortaleza](https://img.shields.io/badge/Based_in-Fortaleza%2C_Brazil-087E8B?style=for-the-badge)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vladsonbezerra/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Vladson%20Bezerra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/bvladson" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-bvladson-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Fortaleza%2C%20Brazil-00A86B?style=for-the-badge" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3400&pause=1300&color=00C7D9&center=true&vCenter=true&width=780&height=54&lines=Software+Developer+%7C+Systems+Engineering;Full-Stack+Development+%7C+Architecture;Data+Engineering+%7C+Automation+%7C+AI" alt="Software development, systems engineering, full-stack development, data and AI" />
+
+  **Engineering software that makes complex operations simpler.**
+
+</div>
 
 ---
 
-## 💡 About Me
+## 👨‍💻 About me
 
-I'm a technology professional focused on **software development, systems architecture, enterprise applications, process automation, systems integration, and data intelligence**.
+I'm **Vladson Santos Bezerra**, a software developer based in Fortaleza, Brazil. I design, build, integrate, and operate business-focused applications — from customer-facing experiences and internal platforms to data pipelines, enterprise integrations, and production infrastructure.
 
-My background combines **hands-on technical expertise**, **analytical thinking**, and **business knowledge**, allowing me to design and develop solutions that solve real operational problems.
+My work brings together **software architecture, full-stack development, automation, business intelligence, and AI**. I enjoy connecting the technical details to the real problem: reliable systems, trustworthy data, and practical results for the people who use them.
 
-I work across the full software lifecycle — from **requirements analysis and solution design** to **implementation, deployment, monitoring, and continuous improvement**.
+- 🧩 **Build:** Web platforms, back-end services, internal tools, and modular software systems.
+- 🔗 **Connect:** ERP/CRM ecosystems, REST APIs, business workflows, and external services.
+- 📊 **Understand:** Operational data, analytics, data quality, dashboards, and forecasting.
+- 🛠️ **Operate:** Linux servers, containers, deployment workflows, monitoring, and recovery.
+- 🤖 **Explore:** Local language models, AI integrations, and intelligent automation.
 
-My main interest is building **reliable, secure, scalable, and data-driven systems**, combining software engineering, automation, infrastructure, and artificial intelligence.
-
----
-
-## 🚀 Areas of Expertise
-
-- **Software Engineering & Architecture** — system design, modular architecture, security, automated testing, maintainability  
-- **Full-Stack Development** — web applications, front-end interfaces, back-end services, REST APIs, database integration  
-- **Systems Integration** — ERP, CRM, external APIs, enterprise platforms  
-- **Process Automation** — workflows, scripts, scheduled jobs, integration pipelines  
-- **Business Intelligence & Data Engineering** — data modeling, transformation, analytics, performance monitoring  
-- **Artificial Intelligence** — local LLMs, AI assistants, predictive analysis, intelligent automation  
-- **DevOps & Infrastructure** — Linux administration, Docker, deployment workflows, monitoring, backups, production environments  
+> **What guides my work:** clear architecture, data integrity, security by design, maintainability, and safe deployments.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Technology landscape
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+<div align="center">
 
-### Front-End
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TanStack Start](https://img.shields.io/badge/TanStack%20Start-FF4154?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Languages & interfaces**
 
-### Back-End & Databases
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,php,ts,js,react,html,css,tailwind&theme=dark&perline=8" alt="Python, PHP, TypeScript, JavaScript, React, HTML, CSS, Tailwind CSS" />
 
-### Infrastructure & Automation
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+**Services, data & infrastructure**
 
-### Enterprise Systems & AI
-![ERPNext](https://img.shields.io/badge/ERPNext-0F6CBD?style=for-the-badge)
-![Frappe](https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge)
-![Omie ERP](https://img.shields.io/badge/Omie%20ERP-4B4B4B?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-AI-blueviolet?style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,sqlite,docker,nginx,ubuntu,bash,git&theme=dark&perline=8" alt="Node.js, PostgreSQL, SQLite, Docker, Nginx, Ubuntu, Bash, Git" />
+
+</div>
+
+**Also working with:** TanStack Start · MariaDB · SQL · REST APIs · PostgREST · n8n · ERPNext / Frappe · Omie ERP · Ollama · LLM integrations · WordPress (headless CMS)
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Selected projects
 
-### 📊 [BIOMIE v2 — Enterprise Business Intelligence Platform](https://github.com/bvladson/biomie-v2)
-A multi-company Business Intelligence platform integrated with Omie ERP, designed to deliver insights into sales, financial performance, inventory, and operations.
+These repositories document **real engineering work**, including product implementation, systems integration, technical decisions, and operating software beyond initial deployment.
 
-**Tech Stack:** TypeScript, React, TanStack Start, PostgreSQL, Python, Docker
+| Enterprise platforms | Infrastructure, automation & integrations |
+|:--|:--|
+| **[📊 BIOMIE v2](https://github.com/bvladson/biomie-v2)**<br/>Business intelligence platform for multiple companies, with analytics, inventory intelligence, financial views, and Python services.<br/>`TypeScript` `React` `PostgreSQL` `Python` | **[⚙️ Ubuntu VPS Infrastructure](https://github.com/bvladson/infra-vps-ubuntu)**<br/>Production infrastructure patterns, container operations, secure deployments, health checks, backups, and rollback procedures.<br/>`Linux` `Docker` `Nginx` `Bash` |
+| **[🌐 MAG Website + CRM](https://github.com/bvladson/mag-site-crm)**<br/>Corporate website and commercial workspace: catalog, CRM, sales workflows, proposals, and ERP/WhatsApp integration.<br/>`React` `TypeScript` `SQLite` | **[🤖 MAG AI](https://github.com/bvladson/mag-ai)**<br/>Local language model infrastructure, internal gateway, isolation, validation, and enterprise AI integration.<br/>`Ollama` `Node.js` `Docker` |
+| **[🏗️ BIOMIE v1](https://github.com/bvladson/biomie-v1)**<br/>First-generation PHP business intelligence system, with modular application layers, integration contracts, and data governance.<br/>`PHP 8` `MariaDB` `Nginx` | **[🔧 ERPNext Brazilian Localization](https://github.com/bvladson/vsb-erp-ptbr)**<br/>Portuguese (Brazil) document and print templates, with validation of real PDF output.<br/>`ERPNext` `Frappe` `Jinja` |
+| **[🗂️ MAG Base](https://github.com/bvladson/mag-base)**<br/>Enterprise task management customization, localization, scripted releases, and validation.<br/>`PHP` `MariaDB` `Python` | **[🏢 VSB Corporate Website](https://github.com/bvladson/vsb-site-institucional)**<br/>Business site with headless content management, lead capture, and automated production audits.<br/>`TypeScript` `React` `WordPress` |
 
----
+<div align="center">
 
-### 🏗️ [BIOMIE v1 — PHP-Based Business Intelligence System](https://github.com/bvladson/biomie-v1)
-The first generation of the BIOMIE platform, built in PHP with modular architecture, enterprise integrations, security mechanisms, and automated testing.
+**[Explore my repositories →](https://github.com/bvladson?tab=repositories)**
 
-**Tech Stack:** PHP 8, MariaDB, Nginx
-
----
-
-### 🌐 [MAG Website & CRM Platform](https://github.com/bvladson/mag-site-crm)
-An enterprise application combining a corporate website, product catalog, CRM, sales pipeline, commercial proposals, customer communication, and ERP synchronization.
-
-**Tech Stack:** React, TypeScript, TanStack Start, SQLite, Docker
+</div>
 
 ---
 
-### 🤖 [MAG AI — Local Artificial Intelligence Infrastructure](https://github.com/bvladson/mag-ai)
-A project focused on locally hosted language models, AI service gateways, container isolation, and secure enterprise integration.
+## 🧠 How I approach systems
 
-**Tech Stack:** Node.js, Ollama, Docker, Python
+Across my projects, I work with patterns like this. **This is an illustrative view of my technical areas, not a deployment diagram of one application.**
 
----
+```mermaid
+flowchart TB
+  UI["Product interfaces<br/>React · TanStack Start"] --> APP["Application services<br/>TypeScript · PHP · Node.js"]
+  APP --> INT["Enterprise integrations<br/>Omie ERP · ERPNext · CRM · APIs"]
+  APP --> DB["Data & persistence<br/>PostgreSQL · MariaDB · SQLite"]
+  DB --> ANALYTICS["Analytics & intelligence<br/>Python · BI · AI services"]
+  OPS["Operations & delivery<br/>Ubuntu · Docker · Nginx"] -.-> APP
+  OPS -.-> DB
+  classDef surface fill:#0b2536,color:#edfaff,stroke:#19bccc,stroke-width:1.5px;
+  classDef emphasis fill:#064b5c,color:#ffffff,stroke:#4ae2e8,stroke-width:2px;
+  class UI,INT,DB,ANALYTICS,OPS surface;
+  class APP emphasis;
+```
 
-### ⚙️ [Ubuntu VPS — Production Infrastructure](https://github.com/bvladson/infra-vps-ubuntu)
-Infrastructure architecture and automation for hosting multiple production applications, including deployment workflows, monitoring, backups, and recovery.
+### Engineering principles
 
-**Tech Stack:** Ubuntu Server, Docker, Nginx, Bash, Python
-
----
-
-### 🗂️ [MAG Base — Enterprise Task Management](https://github.com/bvladson/mag-base)
-Customization and deployment of an enterprise task management platform with localization, automation scripts, and version management.
-
-**Tech Stack:** PHP, MariaDB, Python
-
----
-
-### 🏢 [VSB — Corporate Website](https://github.com/bvladson/vsb-site-institucional)
-A corporate website with headless CMS architecture, lead generation, service integrations, automated deployment, and production auditing.
-
-**Tech Stack:** TypeScript, React, TanStack Start, WordPress, Docker
-
----
-
-### 🔧 [ERPNext — Brazilian Localization](https://github.com/bvladson/vsb-erp-ptbr)
-Customization and localization of ERPNext print formats and enterprise workflows for Brazilian business operations.
-
-**Tech Stack:** ERPNext, Frappe, Jinja, HTML
+`Security by design` · `Reliable data` · `Automation-first operations` · `Observable systems` · `Safe release processes` · `Maintainable architecture`
 
 ---
 
 ## 🎓 Education
 
-### Bachelor's Degree in Business Intelligence  
-**University of Fortaleza (UNIFOR) — Brazil**
+| Qualification | Institution | Focus |
+|:--|:--|:--|
+| **Undergraduate degree — Business Intelligence** | University of Fortaleza (UNIFOR), Brazil | Data analysis, analytics, and decision intelligence |
+| **Degree — Marketing** | Estácio University, Brazil | Business strategy, market analysis, and digital business |
+| **Executive MBA — Marketing** | Faculdade CDL, Brazil | Strategic management, leadership, and business performance |
 
-### Bachelor's Degree in Marketing  
-**Estácio University — Brazil**
-
-### Executive MBA in Marketing  
-**Faculdade CDL — Fortaleza, Brazil**
-
-My multidisciplinary academic background helps me connect **software engineering, business strategy, and data-driven decision-making** to create solutions with real operational value.
+My academic background complements hands-on engineering with **analytical reasoning and a practical understanding of business operations**.
 
 ---
 
-## 🎯 Engineering Philosophy
+## 🌎 Connect
 
-I believe software development goes far beyond writing code.
+<div align="center">
 
-Building effective systems requires understanding the problem, selecting the right architecture, ensuring data integrity, and maintaining security, performance, and reliability throughout the entire lifecycle.
+**Have an interesting engineering challenge or want to talk about systems, data, or automation?**
 
-My work is guided by:
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladsonbezerra/)
+[![GitHub](https://img.shields.io/badge/Explore_my_code-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bvladson)
 
-- **Problem-Solving**
-- **Reliability**
-- **Scalability**
-- **Data Integrity**
-- **Automation**
-- **Continuous Improvement**
+<sub>Fortaleza, Ceará, Brazil · Building systems that connect software, data, and people.</sub>
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bvladson&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bvladson&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🌎 Let's Connect
-
-- 💼 LinkedIn: [linkedin.com/in/vladsonbezerra](https://www.linkedin.com/in/vladsonbezerra/)
-- 💻 GitHub: [github.com/bvladson](https://github.com/bvladson)
-- 📍 Fortaleza, Ceará, Brazil
-
----
-
-<h3 align="center">
-  💡 Building reliable software, connecting systems, and transforming complex challenges into intelligent solutions.
-</h3>
+</div>
