@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/vladson-banner.png" alt="Vladson Santos Bezerra — Software Development, Systems Engineering, Architecture, Data and AI" width="100%" />
+  <img src="./assets/vladson-banner.svg" alt="Vladson Santos Bezerra — Software Development, Systems Engineering, Architecture, Data and AI" width="100%" />
 </div>
 
 <div align="center">
@@ -29,6 +29,19 @@ My work brings together **software architecture, full-stack development, automat
 - 🤖 **Explore:** Local language models, AI integrations, and intelligent automation.
 
 > **What guides my work:** clear architecture, data integrity, security by design, maintainability, and safe deployments.
+
+---
+
+## 📍 Running in production
+
+Not demos. These systems are used daily, by real teams, with real data.
+
+| | |
+|:--|:--|
+| **9 systems** sharing one 2-vCPU / 7.75 GiB Ubuntu VPS — web apps, two databases, an ERP, a CMS, automations and a local LLM | **5 companies** analysed by the BI platform, sourced from a single ERP |
+| **119/119 tables · 2,670,587 rows** verified identical in a restore drill *before* the legacy system was switched off | **3.5 GB** was the lowest free memory across 17 days of 5-minute samples — no outage from memory pressure |
+
+Every release goes through the same gate: a snapshot of production's own numbers before the change and another after. If they disagree, it rolls back.
 
 ---
 
@@ -63,7 +76,10 @@ These repositories document **real engineering work**, including product impleme
 
 <div align="center">
 
-**[Explore my repositories →](https://github.com/bvladson?tab=repositories)**
+**[📑 Full project index](https://github.com/bvladson/portfolio)** — what each system solves, the stack,
+the architectural decisions and the incidents that shaped them.
+
+**[Explore all repositories →](https://github.com/bvladson?tab=repositories)**
 
 </div>
 

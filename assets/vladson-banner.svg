@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 288" width="1280" height="288" role="img" aria-label="Vladson Santos Bezerra — Software Developer, Systems Engineering, Data and AI">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#061620"/>
+      <stop offset="0.55" stop-color="#0a2634"/>
+      <stop offset="1" stop-color="#06333f"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#19bccc"/>
+      <stop offset="1" stop-color="#19bccc" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#19bccc" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#4ae2e8" stop-opacity="0.75"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4ae2e8"/>
+      <stop offset="1" stop-color="#0a7f96"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="288" fill="url(#bg)"/>
+
+  <g opacity="0.07" stroke="#8fd4de" stroke-width="1">
+    <path d="M0 72h1280M0 144h1280M0 216h1280"/>
+    <path d="M160 0v288M320 0v288M480 0v288M640 0v288M800 0v288M960 0v288M1120 0v288"/>
+  </g>
+
+  <rect x="0" y="0" width="5" height="288" fill="url(#edge)"/>
+
+  <g font-family="Segoe UI, -apple-system, Helvetica Neue, Arial, sans-serif">
+    <text x="72" y="104" fill="#f2fbfd" font-size="46" font-weight="600" letter-spacing="-0.5">Vladson Santos Bezerra</text>
+    <rect x="73" y="124" width="150" height="3" rx="1.5" fill="url(#rule)"/>
+    <text x="72" y="166" fill="#7fcdda" font-size="21" font-weight="500">Software Developer · Systems Engineering · Data &amp; AI</text>
+    <text x="72" y="208" fill="#5c93a4" font-size="15.5" letter-spacing="0.3">ERP &amp; CRM integration  ·  Business intelligence  ·  Production infrastructure</text>
+    <text x="72" y="238" fill="#45788a" font-size="14" letter-spacing="0.3">Fortaleza, Brazil</text>
+  </g>
+
+  <g transform="translate(902 58)">
+    <g fill="url(#bar)">
+      <rect x="0"   y="104" width="26" height="62"  rx="3"/>
+      <rect x="42"  y="78"  width="26" height="88"  rx="3"/>
+      <rect x="84"  y="92"  width="26" height="74"  rx="3"/>
+      <rect x="126" y="46"  width="26" height="120" rx="3"/>
+      <rect x="168" y="60"  width="26" height="106" rx="3"/>
+      <rect x="210" y="20"  width="26" height="146" rx="3"/>
+    </g>
+    <path d="M13 112 L55 86 L97 98 L139 54 L181 68 L223 28"
+          fill="none" stroke="#4ae2e8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.95"/>
+    <g fill="#061620" stroke="#4ae2e8" stroke-width="2.5">
+      <circle cx="13" cy="112" r="4"/>
+      <circle cx="55" cy="86" r="4"/>
+      <circle cx="97" cy="98" r="4"/>
+      <circle cx="139" cy="54" r="4"/>
+      <circle cx="181" cy="68" r="4"/>
+      <circle cx="223" cy="28" r="5"/>
+    </g>
+    <rect x="0" y="178" width="236" height="1.5" rx="0.75" fill="#19bccc" opacity="0.35"/>
+  </g>
+</svg>
